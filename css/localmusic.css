@@ -1,0 +1,219 @@
+body{
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+.layout{
+    height: 2000px;
+    width:900px;
+    background:black;
+    margin: auto;
+}
+table{
+    text-align: center;
+    text-transform: lowercase;
+    color: antiquewhite;
+    border: 2px solid white;
+padding: 30px;
+margin: 50px;}
+
+.header{
+    height: 300px;
+    width: 900px;
+    background:rgba(0, 174, 255, 0.397);
+}
+.logo{
+    height: 300px;
+    width: 300px;
+    float: left;
+}
+.logo img{
+    height: 300px;
+    width:300px;
+}
+.logoblank{
+    height: 250px;
+    width: 600px;
+    float: left;
+    background:rgba(0, 0, 0, 0.404);
+}
+h3{
+position:relative;
+left:20px;
+color: white;
+line-height: 0.7cm;}
+h1{
+position: relative;
+color: white;
+left:10px;
+}
+h2{
+    position: relative;
+    left:300px;
+    font-size: 59px;
+    color: aqua;
+}
+h5{
+    text-align: center;
+    color: white;
+    line-height: 0.7cm;
+font-size: 50px;
+}
+.navigation{
+    height: 50px;
+    width:600px;
+    background: gray;
+    display: inline;
+}
+navigation ul{
+float: left;
+}
+.navigation ul li{
+display: inline-block;
+line-height: 40px;
+padding:0 20px;
+margin:0 2.5px;
+}
+.navigation ul li:hover{
+   background:white;
+   border:solid black 2px;
+   border-radius: 10px;
+font-size: 11px;
+text-overflow: clip;
+text-transform: uppercase;
+}
+
+.btn{
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    color: white; 
+    position: relative;
+}
+.container{
+    height: 1400px;
+    width: 900px;
+    background: black;
+}
+.container1{
+height:320px;
+width: 900px;
+float:left;
+background:black;
+}
+.container2{
+    height:780px;
+    width: 900px;
+    float:left;
+    background:rgba(0, 174, 255, 0.397);
+}
+.box1{
+    height: 200px;
+    width: 200px;
+    float: left;
+    position:relative;
+    top:300px;
+    left:0px;
+}
+.box2{
+    height: 200px;
+    width: 200px;
+    float: left;
+    position:relative;
+    top:300px;
+    left:10px;}
+    .box3{
+        height: 200px;
+        width: 200px;
+        float: left;
+        position:relative;
+        top:300px;
+        left:20px;}
+.box4{
+ height: 200px;
+ width: 200px;
+ float: left;
+ position:relative;
+ top:300px;
+ left:30px;}
+.box5{
+height: 220px;
+  width: 200px;
+ float: left;
+ position:relative;
+ top:320px;
+ left:0px;}
+ .box6{
+height: 200px;
+ width: 200px;
+ float: left;
+ position:relative;
+ top:320px;
+ left:10px;}
+.box7{
+ height: 200px;
+ width: 200px;
+ float: left;
+ position:relative;
+ top:320px;
+  left:20px;}
+.box8{
+  height: 200px;
+ width: 200px;
+ float: left;
+position:relative;
+ top:320px;
+ left:30px;}
+ .box9{
+    height: 200px;
+    width: 900px;
+    float: left;
+    position:relative;
+    top:330px;
+    left:0px;
+}
+.box10{
+    height: 200px;
+    width: 900px;
+    float: left;
+    position:relative;
+    top:-205px;
+    left:210px;
+}
+.box11{
+    height: 200px;
+    width: 900px;
+    float: left;
+    position:relative;
+    top:-405px;
+    left:420px;
+}
+.box12{
+    height: 200px;
+    width: 900px;
+    float: left;
+    position:relative;
+    top:-605px;
+    left:630px;
+}
+
+.container3{
+height:400px;
+width:900px;
+float:left;
+background: black;
+}
+.container img{
+    position:relative;
+    height:200px;
+    width:200px;
+    left:50px;
+    top: -270px;
+}
+.footer{
+    height: 300px;
+    width: 900px;
+}
+.footer img{
+height:300px;
+width:900px;
+}
